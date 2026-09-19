@@ -354,7 +354,7 @@ Les contributions sont **bienvenues** !
 
  ### LIENS APPLICATION STREAMLIT EN LIGNE :
 
-       https://stock-track-spcx.streamlit.app/
+    https://stock-track-spcx.streamlit.app/
 ---
 
 ## 📄 Licence
